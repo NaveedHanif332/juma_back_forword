@@ -1,0 +1,224 @@
+{
+  "project_info": {
+    "project_number": "436026100612",
+    "project_id": "livescores-ed081",
+    "storage_bucket": "livescores-ed081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436026100612:android:05f0fa4426f6126e386bd1",
+        "android_client_info": {
+          "package_name": "app.davapps.alllivescores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK2hySyLSwWX0KroLsyg0z8uVYXMMxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436026100612:android:0476398d6d7b34b7386bd1",
+        "android_client_info": {
+          "package_name": "com.jumia.bellesscretsblackfriday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436026100612-o3nc6mqocfocr5caqs1bv2glago58apb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.bellesscretsblackfriday",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK2hySyLSwWX0KroLsyg0z8uVYXMMxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436026100612:android:d8df4d731f434dea386bd1",
+        "android_client_info": {
+          "package_name": "com.jumia.ecitizen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436026100612-jkgh650su4huh5ri1cpp8iigfsj1onsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.ecitizen",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK2hySyLSwWX0KroLsyg0z8uVYXMMxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436026100612:android:060a066126f41e54386bd1",
+        "android_client_info": {
+          "package_name": "com.jumia.kongablackfriday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436026100612-sls317lg3orcfgp70mqt17e6qss18qj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.kongablackfriday",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK2hySyLSwWX0KroLsyg0z8uVYXMMxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436026100612:android:5abad56154737fc9386bd1",
+        "android_client_info": {
+          "package_name": "com.jumia.ntsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436026100612-lggb1t028807174bbp9bo6a7qa02q365.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.ntsa",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK2hySyLSwWX0KroLsyg0z8uVYXMMxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436026100612:android:6562e97480d36597386bd1",
+        "android_client_info": {
+          "package_name": "com.jumia.tubebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436026100612-gtpgpcotuvrcp6t4gct79iedq6mi367o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.tubebuddy",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK2hySyLSwWX0KroLsyg0z8uVYXMMxjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436026100612-bi4a9jirjc7o8dfj2emnv1bmsitc5169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
